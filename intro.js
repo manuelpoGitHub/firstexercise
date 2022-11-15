@@ -9,9 +9,9 @@ let c = 9;
 console.log(c);
 
 // if statement
-let x = 5;
+let y = 5;
 
-if (x > 3) {
+if (y > 3) {
   console.log("greater than 3");
 } else {
   console.log("3 or less");

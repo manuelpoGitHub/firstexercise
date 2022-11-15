@@ -8,7 +8,7 @@ anArray[1] = 2;
 anArray[3] = 4;
 
 //log it to make sure our changes happened
-console.log(anArray);
+console.log("line 11", anArray);
 
 
 
@@ -16,7 +16,7 @@ console.log(anArray);
 const numbers = [2,3,4]
 
 //log the current length of the array
-console.log(numbers.length)
+console.log("line19",numbers.length)
 
 // push the number 5 to the end of the array and log the array and its length
 numbers.push(5)
