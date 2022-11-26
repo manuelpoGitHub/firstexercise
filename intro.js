@@ -7,7 +7,7 @@ console.log(b);
 
 let c = 9;
 console.log(c);
-
+// function log(parameter) {return parameter}
 // if statement
 let y = 5;
 
@@ -47,3 +47,5 @@ while (x < 10) {
 for (let x = 0; x < 10; x += 1) {
   console.log(x);
 }
+// to update
+
